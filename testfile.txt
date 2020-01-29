@@ -1,3 +1,5 @@
 this is a test file to update
 this is a test file1
 This is a test file2
+this is a merge-conflict
+this
